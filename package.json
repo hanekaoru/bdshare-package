@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "bdshare@0.0.6",
+      "C:\\Users\\Administrator\\Desktop\\dy-spa\\DyData2\\client"
+    ]
+  ],
+  "_from": "bdshare@0.0.6",
+  "_id": "bdshare@0.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-83YXGGrtgRpw0/KLaGQgrhWR0rc=",
+  "_location": "/bdshare",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "bdshare@0.0.6",
+    "name": "bdshare",
+    "escapedName": "bdshare",
+    "rawSpec": "0.0.6",
+    "saveSpec": null,
+    "fetchSpec": "0.0.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/bdshare/download/bdshare-0.0.6.tgz",
+  "_spec": "0.0.6",
+  "_where": "C:\\Users\\Administrator\\Desktop\\dy-spa\\DyData2\\client",
+  "author": {
+    "name": "Dafrok",
+    "email": "o.o@mug.dog"
+  },
+  "bugs": {
+    "url": "https://github.com/Dafrok/bdshare/issues"
+  },
+  "description": "A shell of bdshare.",
+  "devDependencies": {
+    "babel-preset-es2015-rollup": "^1.1.1",
+    "rollup": "^0.34.1",
+    "rollup-plugin-babel": "^2.6.1",
+    "rollup-plugin-commonjs": "^3.1.0",
+    "rollup-plugin-node-resolve": "^1.7.1",
+    "rollup-plugin-replace": "^1.1.1"
+  },
+  "homepage": "https://github.com/Dafrok/bdshare/#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "bdshare",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dafrok/bdshare.git"
+  },
+  "scripts": {
+    "package": "rollup -c"
+  },
+  "version": "0.0.6"
+}

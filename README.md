@@ -1,1 +1,7 @@
-# bdshare-package
+备份
+
+----
+
+## 修改部分
+
+* 将根目录下的 `index.js` 中的 `qq` 方法重构为 `sqq`
